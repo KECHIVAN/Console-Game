@@ -1,0 +1,14 @@
+C:\Users\dns51\source\repos\777\777\obj\Debug\777.csproj.AssemblyReference.cache
+C:\Users\dns51\source\repos\777\777\obj\Debug\777.csproj.CoreCompileInputs.cache
+C:\Users\dns51\source\repos\777\777\bin\Debug\777.exe.config
+C:\Users\dns51\source\repos\777\777\bin\Debug\777.exe
+C:\Users\dns51\source\repos\777\777\bin\Debug\777.pdb
+C:\Users\dns51\source\repos\777\777\obj\Debug\777.exe
+C:\Users\dns51\source\repos\777\777\obj\Debug\777.pdb
+C:\Users\nedos\Desktop\777\777\bin\Debug\777.exe.config
+C:\Users\nedos\Desktop\777\777\bin\Debug\777.exe
+C:\Users\nedos\Desktop\777\777\bin\Debug\777.pdb
+C:\Users\nedos\Desktop\777\777\obj\Debug\777.csproj.AssemblyReference.cache
+C:\Users\nedos\Desktop\777\777\obj\Debug\777.csproj.CoreCompileInputs.cache
+C:\Users\nedos\Desktop\777\777\obj\Debug\777.exe
+C:\Users\nedos\Desktop\777\777\obj\Debug\777.pdb
